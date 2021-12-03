@@ -1,7 +1,3 @@
-#!usr/bin/env python
-# -*- coding: utf-8 -*-
-
-
 def fun():
     Q = x  # 通过队列进行处理
     while len(Q) > 1:
